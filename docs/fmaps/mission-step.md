@@ -1,7 +1,7 @@
 # FMap: MissionStep — Top-Level Control Loop
 
-> Defined before implementation. The control hierarchy and variable assignments
-> are verified against Hamilton's six axioms before any code is written.
+> Control hierarchy and variable assignments extracted from the implemented
+> controller and verified against Hamilton's six axioms as static analysis.
 >
 > Reference: Hamilton & Hackler, "Universal Systems Language for Preventative
 > Systems Engineering," CSER 2007.
